@@ -8,22 +8,9 @@
     "110.1": {
       "title": "110.1",
       "volume": "",
-      "last_updated": "1745075650",
+      "last_updated": "1745075962",
       "groups": {
-        "comic-growl": [
-          "https://drive.usercontent.google.com/download?id=10Qkt2ovRxcOYHpMsN0hzuVm7NaAFPJmb",
-          "https://drive.usercontent.google.com/download?id=18TW_0SlctcWZ_f5zyf1xYDLtYZ6oiuc_",
-          "https://drive.usercontent.google.com/download?id=1v709xlOsTc5H4LWqqTAD7o2L64kDdtyg",
-          "https://drive.usercontent.google.com/download?id=1T4_IENHp16lSD8RMvBu7qudPQlFJEMWD",
-          "https://drive.usercontent.google.com/download?id=1Jke6YidDuKxCfOzAbCgWOTdWP3SVsEDG",
-          "https://drive.usercontent.google.com/download?id=1PorsF42QQ02zFp0GpArkXT_7Dj1ciz4p",
-          "https://drive.usercontent.google.com/download?id=1Ut-lBzWacg-4OqdMLsJsq3lSbovCXG-1",
-          "https://drive.usercontent.google.com/download?id=1h0vTO1YmK7Vq7LicbqdU9T6OS00dnjM4",
-          "https://drive.usercontent.google.com/download?id=163wXF1ZFgicGD0FCZP470r276hBepgYm",
-          "https://drive.usercontent.google.com/download?id=1M_yYyK5atIEPXQZ42VEhF5LfpfbzadAA",
-          "https://drive.usercontent.google.com/download?id=16oZOWQMmdBFzIb7tl5FcWPl2mqAMOK3H",
-          "https://drive.usercontent.google.com/download?id=1VQladpGM2CG-5S1PhTivCJm6pOPU51Xe"
-        ]
+        "comic-growl": "/proxy/api/imgur/chapter/XNQD7Bt"
       }
     }
   }
