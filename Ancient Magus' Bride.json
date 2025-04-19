@@ -5,6 +5,14 @@
   "author": "Yamazaki Kore",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx85435-GEy771ZSyuO0.jpg",
   "chapters": {
+    "1": {
+      "title": "April showers bring May flowers. ",
+      "volume": "",
+      "last_updated": "1745097841",
+      "groups": {
+        "Ibara Scans": "/proxy/api/mangadex/chapter/38188cca-f0bc-43d6-a0bc-3adcebc68d83"
+      }
+    },
     "110.1": {
       "title": "Time will tell. II",
       "volume": "",
