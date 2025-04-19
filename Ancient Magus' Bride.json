@@ -119,14 +119,6 @@
         "Comic Growl": "https://imgur.com/a/chapter-109-Qequv2P"
       }
     },
-    "110.1": {
-      "title": "110.1",
-      "volume": "",
-      "last_updated": "1745075962",
-      "groups": {
-        "Comic Growl": "/proxy/api/imgur/chapter/YMDzF6S"
-      }
-    },
     "110.2": {
       "title": "110.2",
       "volume": "",
@@ -141,6 +133,14 @@
       "last_updated": "1745098936",
       "groups": {
         "Comic Growl": "https://imgur.com/a/110-part-3-aiTJZLU"
+      }
+    },
+    "110.1": {
+      "title": "110.1",
+      "volume": "",
+      "last_updated": "1745099198",
+      "groups": {
+        "Comic Growl": "/proxy/api/imgur/chapter/YMDzF6S"
       }
     }
   }
