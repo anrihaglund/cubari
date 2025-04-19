@@ -1,10 +1,74 @@
 {
   "title": "Ancient Magus' Bride",
-  "description": "This is an archive for Mahoutsukai no Yome manga after the migration to Comic Growl. \nChapters 1-96 can be found here: https://cubari.moe/read/mangadex/195023bf-cf9a-4772-94ef-09dd6eddea84/",
+  "description": "This is an archive for Mahoutsukai no Yome manga after the migration to Comic Growl. \nPrevious chapters can be found here: https://cubari.moe/read/mangadex/195023bf-cf9a-4772-94ef-09dd6eddea84/",
   "artist": "Yamazaki Kore",
   "author": "Yamazaki Kore",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx85435-GEy771ZSyuO0.jpg",
   "chapters": {
+    "96": {
+      "title": "96",
+      "volume": "",
+      "last_updated": "1745099106",
+      "groups": {
+        "Comic Growl": "https://imgur.com/a/chapter-96-XnqS9V9"
+      }
+    },
+    "97": {
+      "title": "97",
+      "volume": "",
+      "last_updated": "1745099088",
+      "groups": {
+        "Comic Growl": "https://imgur.com/a/chapter-97-fan-translated-oCkBTOI"
+      }
+    },
+    "98": {
+      "title": "98",
+      "volume": "",
+      "last_updated": "1745099077",
+      "groups": {
+        "Comic Growl": "https://imgur.com/a/chapter-98-gJWTEQ8"
+      }
+    },
+    "99": {
+      "title": "99",
+      "volume": "",
+      "last_updated": "1745099067",
+      "groups": {
+        "Comic Growl": "https://imgur.com/a/chapter-99-tM0lsnb"
+      }
+    },
+    "100": {
+      "title": "100",
+      "volume": "",
+      "last_updated": "1745099059",
+      "groups": {
+        "Comic Growl": "https://imgur.com/a/chapter-100-0pu3Mu4"
+      }
+    },
+    "101": {
+      "title": "101",
+      "volume": "",
+      "last_updated": "1745099049",
+      "groups": {
+        "Comic Growl": "https://imgur.com/a/chapter-101-dAZQo8p"
+      }
+    },
+    "102": {
+      "title": "102",
+      "volume": "",
+      "last_updated": "1745099040",
+      "groups": {
+        "Comic Growl": "https://imgur.com/a/chapter-102-PPmzQPt"
+      }
+    },
+    "103": {
+      "title": "103",
+      "volume": "",
+      "last_updated": "1745099032",
+      "groups": {
+        "Comic Growl": "https://imgur.com/a/chapter-103-5Pvl9IP"
+      }
+    },
     "104": {
       "title": "104",
       "volume": "",
