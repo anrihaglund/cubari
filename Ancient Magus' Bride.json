@@ -5,12 +5,78 @@
   "author": "Yamazaki Kore",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx85435-GEy771ZSyuO0.jpg",
   "chapters": {
+    "104": {
+      "title": "104",
+      "volume": "",
+      "last_updated": "1745099008",
+      "groups": {
+        "Comic Growl": "/proxy/api/imgur/chapter/f8S2053"
+      }
+    },
+    "105": {
+      "title": "105",
+      "volume": "",
+      "last_updated": "1745098994",
+      "groups": {
+        "Comic Growl": "/proxy/api/imgur/chapter/tgU4tYC"
+      }
+    },
+    "106": {
+      "title": "106",
+      "volume": "",
+      "last_updated": "1745098982",
+      "groups": {
+        "Comic Growl": "/proxy/api/imgur/chapter/J7QOh3q"
+      }
+    },
+    "107": {
+      "title": "107",
+      "volume": "",
+      "last_updated": "1745098971",
+      "groups": {
+        "Comic Growl": "https://imgur.com/a/chapter-107-2fq459k"
+      }
+    },
+    "108": {
+      "title": "108",
+      "volume": "",
+      "last_updated": "1745098960",
+      "groups": {
+        "Comic Growl": [
+          "https://imgur.com/a/1cU41b9"
+        ]
+      }
+    },
+    "109": {
+      "title": "109",
+      "volume": "",
+      "last_updated": "1745098950",
+      "groups": {
+        "Comic Growl": "https://imgur.com/a/chapter-109-Qequv2P"
+      }
+    },
     "110.1": {
-      "title": "Time will tell. II",
+      "title": "110.1",
       "volume": "",
       "last_updated": "1745075962",
       "groups": {
-        "Comic Growl": "/proxy/api/imgur/chapter/XNQD7Bt"
+        "Comic Growl": "/proxy/api/imgur/chapter/YMDzF6S"
+      }
+    },
+    "110.2": {
+      "title": "110.2",
+      "volume": "",
+      "last_updated": "1745098923",
+      "groups": {
+        "Comic Growl": "https://imgur.com/a/110-part-2-At0QnSk"
+      }
+    },
+    "110.3": {
+      "title": "110.3",
+      "volume": "",
+      "last_updated": "1745098936",
+      "groups": {
+        "Comic Growl": "https://imgur.com/a/110-part-3-aiTJZLU"
       }
     }
   }
