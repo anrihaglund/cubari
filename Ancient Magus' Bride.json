@@ -10,7 +10,7 @@
       "volume": "",
       "last_updated": "1745099106",
       "groups": {
-        "Comic Growl": "https://imgur.com/a/chapter-96-XnqS9V9"
+        "Comic Growl": "/proxy/api/imgur/chapter/XnqS9V9"
       }
     },
     "97": {
@@ -18,7 +18,7 @@
       "volume": "",
       "last_updated": "1745099088",
       "groups": {
-        "Comic Growl": "https://imgur.com/a/chapter-97-fan-translated-oCkBTOI"
+        "Comic Growl": "/proxy/api/imgur/chapter/oCkBTOI"
       }
     },
     "98": {
@@ -26,7 +26,7 @@
       "volume": "",
       "last_updated": "1745099077",
       "groups": {
-        "Comic Growl": "https://imgur.com/a/chapter-98-gJWTEQ8"
+        "Comic Growl": "/proxy/api/imgur/chapter/gJWTEQ8"
       }
     },
     "99": {
@@ -34,7 +34,7 @@
       "volume": "",
       "last_updated": "1745099067",
       "groups": {
-        "Comic Growl": "https://imgur.com/a/chapter-99-tM0lsnb"
+        "Comic Growl": "/proxy/api/imgur/chapter/tM0lsnb"
       }
     },
     "100": {
@@ -42,7 +42,7 @@
       "volume": "",
       "last_updated": "1745099059",
       "groups": {
-        "Comic Growl": "https://imgur.com/a/chapter-100-0pu3Mu4"
+        "Comic Growl": "/proxy/api/imgur/chapter/0pu3Mu4"
       }
     },
     "101": {
@@ -50,7 +50,7 @@
       "volume": "",
       "last_updated": "1745099049",
       "groups": {
-        "Comic Growl": "https://imgur.com/a/chapter-101-dAZQo8p"
+        "Comic Growl": "/proxy/api/imgur/chapter/dAZQo8p"
       }
     },
     "102": {
@@ -58,7 +58,7 @@
       "volume": "",
       "last_updated": "1745099040",
       "groups": {
-        "Comic Growl": "https://imgur.com/a/chapter-102-PPmzQPt"
+        "Comic Growl": "/proxy/api/imgur/chapter/PPmzQPt"
       }
     },
     "103": {
@@ -66,7 +66,7 @@
       "volume": "",
       "last_updated": "1745099032",
       "groups": {
-        "Comic Growl": "https://imgur.com/a/chapter-103-5Pvl9IP"
+        "Comic Growl": "/proxy/api/imgur/chapter/5Pvl9IP"
       }
     },
     "104": {
@@ -98,7 +98,7 @@
       "volume": "",
       "last_updated": "1745098971",
       "groups": {
-        "Comic Growl": "https://imgur.com/a/chapter-107-2fq459k"
+        "Comic Growl": "/proxy/api/imgur/chapter/2fq459k"
       }
     },
     "108": {
@@ -106,9 +106,7 @@
       "volume": "",
       "last_updated": "1745098960",
       "groups": {
-        "Comic Growl": [
-          "https://imgur.com/a/1cU41b9"
-        ]
+        "Comic Growl": "/proxy/api/imgur/chapter/1cU41b9"
       }
     },
     "109": {
@@ -116,7 +114,7 @@
       "volume": "",
       "last_updated": "1745098950",
       "groups": {
-        "Comic Growl": "https://imgur.com/a/chapter-109-Qequv2P"
+        "Comic Growl": "/proxy/api/imgur/chapter/Qequv2P"
       }
     },
     "110.2": {
@@ -124,7 +122,7 @@
       "volume": "",
       "last_updated": "1745098923",
       "groups": {
-        "Comic Growl": "https://imgur.com/a/110-part-2-At0QnSk"
+        "Comic Growl": "/proxy/api/imgur/chapter/At0QnSk"
       }
     },
     "110.3": {
@@ -132,7 +130,7 @@
       "volume": "",
       "last_updated": "1745098936",
       "groups": {
-        "Comic Growl": "https://imgur.com/a/110-part-3-aiTJZLU"
+        "Comic Growl": "/proxy/api/imgur/chapter/aiTJZLU"
       }
     },
     "110.1": {
