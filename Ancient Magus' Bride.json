@@ -1,13 +1,13 @@
 {
   "title": "Ancient Magus' Bride",
-  "description": "This is an archive for Mahoutsukai no Yome manga after the migration to Comic Growl. \nPrevious chapters can be found here: https://cubari.moe/read/mangadex/195023bf-cf9a-4772-94ef-09dd6eddea84/",
+  "description": "This is an archive for Mahoutsukai no Yome manga after the migration to Comic Growl. ",
   "artist": "Yamazaki Kore",
   "author": "Yamazaki Kore",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx85435-GEy771ZSyuO0.jpg",
   "chapters": {
     "96": {
       "title": "The show must go on. II",
-      "volume": "20",
+      "volume": "",
       "last_updated": "1745099106",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/XnqS9V9"
@@ -15,7 +15,7 @@
     },
     "97": {
       "title": "The show must go on. III",
-      "volume": "20",
+      "volume": "",
       "last_updated": "1745099088",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/oCkBTOI"
@@ -23,7 +23,7 @@
     },
     "98": {
       "title": "Fish and guests stink after three.",
-      "volume": "20",
+      "volume": "",
       "last_updated": "1745099077",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/gJWTEQ8"
@@ -31,7 +31,7 @@
     },
     "99": {
       "title": "Many a little makes a mickle.",
-      "volume": "20",
+      "volume": "",
       "last_updated": "1745099067",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/tM0lsnb"
@@ -39,7 +39,7 @@
     },
     "100": {
       "title": "Kindness will creep where it cannot go.",
-      "volume": "20",
+      "volume": "",
       "last_updated": "1745099059",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/0pu3Mu4"
@@ -47,7 +47,7 @@
     },
     "101": {
       "title": "Rain before seven, fine before eleven. I",
-      "volume": "21",
+      "volume": "",
       "last_updated": "1745099049",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/dAZQo8p"
@@ -55,7 +55,7 @@
     },
     "102": {
       "title": "Rain before seven, fine before eleven. II",
-      "volume": "21",
+      "volume": "",
       "last_updated": "1745099040",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/PPmzQPt"
@@ -63,7 +63,7 @@
     },
     "103": {
       "title": "Big fleas have little fleas. I",
-      "volume": "21",
+      "volume": "",
       "last_updated": "1745099032",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/5Pvl9IP"
@@ -71,7 +71,7 @@
     },
     "104": {
       "title": "Big fleas have little fleas. II",
-      "volume": "21",
+      "volume": "",
       "last_updated": "1745099008",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/f8S2053"
@@ -79,7 +79,7 @@
     },
     "105": {
       "title": "Big fleas have little fleas. III",
-      "volume": "21",
+      "volume": "",
       "last_updated": "1745098994",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/tgU4tYC"
@@ -87,7 +87,7 @@
     },
     "106": {
       "title": "misery makes strange bedfellows.",
-      "volume": "22",
+      "volume": "",
       "last_updated": "1745098982",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/J7QOh3q"
@@ -95,7 +95,7 @@
     },
     "107": {
       "title": "misery makes strange bedfellows. II",
-      "volume": "22",
+      "volume": "",
       "last_updated": "1745098971",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/2fq459k"
@@ -103,7 +103,7 @@
     },
     "108": {
       "title": "First catch your hare.",
-      "volume": "22",
+      "volume": "",
       "last_updated": "1745098960",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/1cU41b9"
@@ -111,7 +111,7 @@
     },
     "109": {
       "title": "Time will tell. I",
-      "volume": "22",
+      "volume": "",
       "last_updated": "1745098950",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/Qequv2P"
@@ -119,7 +119,7 @@
     },
     "110.2": {
       "title": "Time will tell. II - part 2",
-      "volume": "22",
+      "volume": "",
       "last_updated": "1745098923",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/At0QnSk"
@@ -127,7 +127,7 @@
     },
     "110.3": {
       "title": "Time will tell. II - part 3",
-      "volume": "22",
+      "volume": "",
       "last_updated": "1745098936",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/aiTJZLU"
@@ -135,7 +135,7 @@
     },
     "110.1": {
       "title": "Time will tell. II - part 1",
-      "volume": "22",
+      "volume": "",
       "last_updated": "1745099198",
       "groups": {
         "Comic Growl": "/proxy/api/imgur/chapter/YMDzF6S"
